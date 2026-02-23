@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <string.h>
-#include "diskr.h"
+#include "diskret.h"
 
 void clear_input() { // очищаем буфер
     int c;
